@@ -22,7 +22,7 @@ export const ThisDay = ({ weather }: Props) => {
           Час: <span>21:54</span>
         </div>
         <div className={s.this__city}>
-          Час: <span>Нововолинськ</span>
+          Час: <span>City</span>
         </div>
       </div>
     </div>
